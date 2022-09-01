@@ -7,6 +7,11 @@ $./mvnw clean package
 $./mvnw spring-boot:run
 ```
 
+List of URLs
+* http://localhost:8080/hello
+* http://localhost:8080/actuator
+
+
 ## Building docker image
 * Copy JAR file
 * Multistage build
