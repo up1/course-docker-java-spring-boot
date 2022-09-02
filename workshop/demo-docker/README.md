@@ -16,6 +16,7 @@ List of URLs
 * Copy JAR file
 * Multistage build
 * Use cached in Docker
+* Create image for dependecy
 ```
 $docker image build -t demo:1.0 -f Dockerfile_01
 
