@@ -22,6 +22,7 @@
 ### Reference Websites
 * Spring Boot
   * [Efficient container images](https://docs.spring.io/spring-boot/docs/current/reference/html/container-images.html#container-images.efficient-images)
+  * [Reusing Docker Layers with Spring Boot](https://www.baeldung.com/docker-layers-spring-boot)
 * Docker
   * [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
   * [Build images with BuildKit](https://docs.docker.com/develop/develop-images/build_enhancements/)
